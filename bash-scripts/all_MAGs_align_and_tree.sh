@@ -1,5 +1,6 @@
 #!/bin/bash
 
+#From HMM hits for denitrification genes, get protein sequences, align them with MAFFT, and make trees if needed for each metagenome
 echo Which metagenome is this?
 
 read varname
