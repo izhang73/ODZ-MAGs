@@ -1,5 +1,6 @@
 #!/bin/bash
 
+#run nor HMMsearching for any ocean (ETSP, ETNP, Arabian Sea) as needed
 echo Which ocean is this?
 
 read ocean
