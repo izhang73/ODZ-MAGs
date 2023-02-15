@@ -1,5 +1,6 @@
 #!/bin/bash
 
+#run HMM searching using new nor HMM profiles on MAGs from any ocean
 echo Which ocean is this?
 
 read ocean
