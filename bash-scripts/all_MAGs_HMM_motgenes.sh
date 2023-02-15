@@ -1,5 +1,6 @@
 #!/bin/bash
 
+#run chemotaxis, aerotaxis, and motility gene searching with HMMs across MAGs associated with any ocean (ETNP, ETSP, Arabian Sea)
 echo Which ocean is this?
 
 read ocean
