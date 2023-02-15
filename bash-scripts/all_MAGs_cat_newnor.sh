@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#run nor HMMsearching for any ocean (ETSP, ETNP, Arabian Sea) as needed
+#after running new nor HMM searching and picking HMM hits, get protein sequences for each new nor from any ocean
 echo Which ocean is this?
 
 read ocean
