@@ -1,5 +1,6 @@
 #!/bin/bash
 
+#run nitrogen gene searching with HMMs across any oceans (ETNP, ETSP, Arabian Sea) and for any sets (metagenome names)
 echo Which ocean is this?
 
 read ocean
