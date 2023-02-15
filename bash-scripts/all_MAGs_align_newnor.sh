@@ -1,5 +1,6 @@
 #!/bin/bash
 
+#for each ocean, align sequences obtained from each new nor gene with MAFFT
 echo Which ocean is this?
 
 read ocean
