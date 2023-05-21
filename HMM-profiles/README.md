@@ -1,7 +1,3 @@
 Hidden Markov Models for metabolic and phylogenetic gene searching
 
-HMMprofiles: A folder containing HMM profiles created for the purposes of this analysis
-
-bash-scripts: A folder containing bash scripts used in HMMsearching, getting protein sequences based on PROKKA IDs, aligning protein sequences with MAFFT, trimming alignments, and building phylogenetic trees
-
-R-scripts: A folder containing R scripts used for creating and cleaning Excel sheets containing MAG, metagenome, nutrient, oxygen, and gene information, performing Pearson correlations, and creating visualizations
+aligments: multiple-sequence alignments for seed sequences used to generate Hidden Markov Models (HMMs)
