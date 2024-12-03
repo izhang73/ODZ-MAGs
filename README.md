@@ -9,3 +9,6 @@ bash-scripts:
 
 R-scripts:
 	A folder containing R scripts used for creating and cleaning Excel sheets containing MAG, metagenome, nutrient, oxygen, and gene information, performing Pearson correlations, and creating visualizations
+
+protein-alignments:
+	A folder containing alignments for curated hits from ODZ MAGs, aligned using MAFFT
